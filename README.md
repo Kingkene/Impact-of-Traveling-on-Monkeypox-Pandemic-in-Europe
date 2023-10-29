@@ -34,6 +34,8 @@ The report comproses of two pages:
   
 You can interact with the report [here](https://public.tableau.com/views/ImpactofTravelingonMonkeypoxPandemicinEurope/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+## Analysis
+
 ## World monkeypox prevalence
 ![World-MonkeyPox-Prevalence](https://github.com/Kingkene/Impact-of-Traveling-on-Monkeypox-Pandemic-in-Europe/assets/120706444/897d821e-cfb8-45eb-9522-717e233bd690)
 
@@ -49,5 +51,17 @@ Wales and Slovenia have the lowest number of confirmed cases at 45.
 Germany and Italy have the highest number Travel History of 19.
 Span which has the highest number of confirmed cases of 6884 has travel history record of 2.
 
-###
+## Conclusion 
 
+- A critical observation of the analyzed data and Visuals reveals that Spain, the European country with the highest number of Confirmed cases, has a very low number of recorded travel history of 2 while Germany 
+and  Italy have the highest number of recorded Traveled History of 19 have confirmed cases of 3530 and 805 respectively.
+- Therefore is no direct proportional impact of travel History on the monkeypox pandemic in Europe.
+
+ ## Recomendation
+ In Northern America, travel history has an increasing impact on the spread of monkeypox. 
+ while in Europe there is no clear direct increasing impact of travel history on the spread of monkeypox in that region. 
+ 
+ **Other factors that increase the transmission of the virus should be looked into and studied to unfold the leading cause of the high of the virus in Europe.**
+
+
+![](image1.jpg)
