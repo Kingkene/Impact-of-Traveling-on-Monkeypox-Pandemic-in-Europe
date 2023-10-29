@@ -64,4 +64,4 @@ and  Italy have the highest number of recorded Traveled History of 19 have confi
  **Other factors that increase the transmission of the virus should be looked into and studied to unfold the leading cause of the high of the virus in Europe.**
 
 
-![](image1.jpg)
+![](image.jpg)
