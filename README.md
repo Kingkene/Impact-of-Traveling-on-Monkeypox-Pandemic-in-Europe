@@ -43,3 +43,11 @@ You can interact with the report [here](https://public.tableau.com/views/Impacto
  
  ## Impact of traveling on monkeypox pandemic in Europe
 ![Impact-of Travel](https://github.com/Kingkene/Impact-of-Traveling-on-Monkeypox-Pandemic-in-Europe/assets/120706444/e1520be0-51d4-4421-b226-de8822f1ec3e)
+
+Spain is the European country with the highest number of comfirmed cases 6884.
+Wales and Slovenia have the lowest number of confirmed cases at 45.
+Germany and Italy have the highest number Travel History of 19.
+Span which has the highest number of confirmed cases of 6884 has travel history record of 2.
+
+###
+
