@@ -25,6 +25,11 @@ To avoid false analysis, Google Sheets were used to clean the data, removing all
 
 
 Visualization was done correctly using Tableau.
+The report comproses of two pages:
 
+- World monkeypox prevalence
+- Impact of traveling on monkeypox pandemic in Europe
+  
+You can interact with the report [here](https://public.tableau.com/views/ImpactofTravelingonMonkeypoxPandemicinEurope/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
