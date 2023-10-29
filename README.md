@@ -34,4 +34,6 @@ The report comproses of two pages:
   
 You can interact with the report [here](https://public.tableau.com/views/ImpactofTravelingonMonkeypoxPandemicinEurope/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+![World-MonkeyPox-Prevalence](https://github.com/Kingkene/Impact-of-Traveling-on-Monkeypox-Pandemic-in-Europe/assets/120706444/897d821e-cfb8-45eb-9522-717e233bd690)
 
+![Impact-of Travel](https://github.com/Kingkene/Impact-of-Traveling-on-Monkeypox-Pandemic-in-Europe/assets/120706444/e1520be0-51d4-4421-b226-de8822f1ec3e)
