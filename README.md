@@ -22,8 +22,9 @@ This dataset was taken from the Kaggle site which contains data from three diffe
 To avoid false analysis, Google Sheets were used to clean the data, removing all empty cells and duplicates.
 
 ### pivot table
-[](Pivot-Table.PNG)
 
-Visualization was done correctly using Google Sheets and Tableau.
+
+Visualization was done correctly using Tableau.
+
 
 
