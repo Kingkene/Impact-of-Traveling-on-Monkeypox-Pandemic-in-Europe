@@ -22,7 +22,7 @@ This dataset was taken from the Kaggle site which contains data from three diffe
 To avoid false analysis, Google Sheets were used to clean the data, removing all empty cells and duplicates.
 
 ### pivot table
-
+![Pivot-Table](https://github.com/Kingkene/Impact-of-Traveling-on-Monkeypox-Pandemic-in-Europe/assets/120706444/78b33145-64f6-4e41-86dc-fc54a7d6a1ff)
 
 Visualization was done correctly using Tableau.
 The report comproses of two pages:
